@@ -1,3 +1,2 @@
 <?php
-
-echo "Hello Gebeya";
+echo "Hello Gebeya Academy";
